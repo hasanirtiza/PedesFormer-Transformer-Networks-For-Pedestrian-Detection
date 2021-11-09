@@ -1,2 +1,2 @@
-# PedesFormer-
+# PedesFormer
 Transformer Networks for Pedestrian Detection
