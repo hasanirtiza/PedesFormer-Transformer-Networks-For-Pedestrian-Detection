@@ -28,11 +28,11 @@ Details and Pre-trained models are coming soon.
 
 [ArXiv2021]
 ```
-@InProceedings{Hasan_2021_CVPR,
+@InProceedings{Hasan_2021_Arxiv,
     author    = {Hasan, Irtiza and Liao, Shengcai and Li, Jinpeng and Akram, Saad Ullah and Shao, Ling},
     title     = {Pedestrian Detection: Domain Generalization,CNNs, Transformers and Beyond},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    month     = {June},
+    booktitle = {ArXiv},
+    month     = {November},
     year      = {2021},
     pages     = {11328-11337}
 }
