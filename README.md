@@ -8,7 +8,21 @@ PedesFormer is a [MMDetection](https://github.com/open-mmlab/mmdetection) and [S
 
 
 # Pretrained Models
-Details and Pre-trained models are coming soon.
+
+
+# Benchmarking 
+
+### Benchmarking of pre-trained models on pedestrian detection datasets (autonomous driving)
+|    Backbone                | Dataset   | Backbone| Reasonable  | Heavy    | 
+|--------------------|:--------:|:--------:|:--------:|:--------:|
+| [Cascade Mask R-CNN]| CityPersons        | [Swin - Transformer](https://drive.google.com/file/d/1LwSWivyx3tPx5FIs8Bh4kM_crnGl74o6/view?usp=sharing) | 9.2       |   36.9      | 
+| [Cascade Mask R-CNN]| EuroCity Persons        | Swin - Transformer |        |         | 
+| [Cascade Mask R-CNN]| Crowd Human        | Swin - Transformer |        |         | 
+
+
+
+
+More Pre-trained models are coming soon.
 
 
 
