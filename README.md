@@ -7,6 +7,9 @@ PedesFormer is a [MMDetection](https://github.com/open-mmlab/mmdetection) and [S
 <img title="Amsterdam" src="gifs/3.gif" width="400"/> <img title="Amsterdam" src="gifs/4.gif" width="400"/>
 
 
+# :fire: **Updates** :fire:
+* 🧨 **Swin Transformer CityPerson model released.** 🧨
+
 # Pretrained Models
 
 
