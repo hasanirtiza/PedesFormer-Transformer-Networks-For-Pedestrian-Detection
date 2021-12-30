@@ -1,6 +1,6 @@
 # PedesFormer
 
-PedesFormer is a [MMDetection](https://github.com/open-mmlab/mmdetection) and [SwinTransformer](https://github.com/SwinTransformer/Swin-Transformer-Object-Detection) based repository. Focused on adavancement of reseach on pedestrian detection using transformer networks.
+PedesFormer is a [MMDetection](https://github.com/open-mmlab/mmdetection) and [SwinTransformer](https://github.com/SwinTransformer/Swin-Transformer-Object-Detection) based repository. It is a successor to our earlier work [Pedestron](https://github.com/hasanirtiza/Pedestron). PedesFormer, focuses on the adavancement of reseach on pedestrian detection using transformer networks.
 
 
 <img title="Amsterdam" src="gifs/1.gif" width="400" /> <img title="Amsterdam" src="gifs/2.gif" width="400"/>
