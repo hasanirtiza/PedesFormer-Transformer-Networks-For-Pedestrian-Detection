@@ -45,12 +45,10 @@ More Pre-trained models are coming soon.
 
 [ArXiv2021]
 ```
-@InProceedings{Hasan_2021_Arxiv,
-    author    = {Hasan, Irtiza and Liao, Shengcai and Li, Jinpeng and Akram, Saad Ullah and Shao, Ling},
-    title     = {Pedestrian Detection: Domain Generalization,CNNs, Transformers and Beyond},
-    booktitle = {ArXiv},
-    month     = {November},
-    year      = {2021},
-    pages     = {11328-11337}
+@article{hasan2022pedestrian,
+  title={Pedestrian Detection: Domain Generalization, CNNs, Transformers and Beyond},
+  author={Hasan, Irtiza and Liao, Shengcai and Li, Jinpeng and Akram, Saad Ullah and Shao, Ling},
+  journal={arXiv preprint arXiv:2201.03176},
+  year={2022}
 }
 ```
