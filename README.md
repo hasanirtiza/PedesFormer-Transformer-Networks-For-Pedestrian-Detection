@@ -43,7 +43,7 @@ More Pre-trained models are coming soon.
 }
 ```
 
-[ArXiv2021](https://arxiv.org/pdf/2201.03176.pdf)
+[ArXiv2022](https://arxiv.org/pdf/2201.03176.pdf)
 ```
 @article{hasan2022pedestrian,
   title={Pedestrian Detection: Domain Generalization, CNNs, Transformers and Beyond},
