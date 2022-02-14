@@ -29,7 +29,12 @@ More Pre-trained models are coming soon.
 
 
 
+# Installation 
+For installation, please see [this](https://github.com/open-mmlab/mmdetection/blob/master/docs/en/get_started.md).
 
+
+
+# Citation 
 ### Please cite the following works
 [CVPR2021](https://openaccess.thecvf.com/content/CVPR2021/papers/Hasan_Generalizable_Pedestrian_Detection_The_Elephant_in_the_Room_CVPR_2021_paper.pdf)
 ```
